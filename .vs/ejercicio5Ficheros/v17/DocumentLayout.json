@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio5ficheros\\servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|solutionrelative:servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio5ficheros\\controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|solutionrelative:controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio5ficheros\\servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|solutionrelative:servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio5ficheros\\servicios\\menuimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|solutionrelative:servicios\\menuimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio5ficheros\\servicios\\menuinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC93A3F4-F86D-4BFD-B652-5E269A7358A7}|ejercicio5Ficheros.csproj|solutionrelative:servicios\\menuinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperativaImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\OperativaImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\OperativaImplementacion.cs",
+              "RelativeToolTip": "Servicios\\OperativaImplementacion.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:09:29.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperativaInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\OperativaInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaInterfaz.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\OperativaInterfaz.cs",
+              "RelativeToolTip": "Servicios\\OperativaInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:09:15.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\MenuImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\MenuImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\MenuImplementacion.cs",
+              "RelativeToolTip": "Servicios\\MenuImplementacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:01:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\MenuInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\MenuInterfaz.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Servicios\\MenuInterfaz.cs",
+              "RelativeToolTip": "Servicios\\MenuInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:01:38.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Controladores\\Program.cs",
+              "RelativeDocumentMoniker": "Controladores\\Program.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio5Ficheros\\Controladores\\Program.cs",
+              "RelativeToolTip": "Controladores\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:00:00.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
